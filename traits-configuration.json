@@ -1,0 +1,58 @@
+{
+  "name": "",
+  "symbol": "",
+  "description": "",
+  "creators": [],
+  "dnp": {},
+  "premadeCustoms": [],
+  "collection": {},
+  "breakdown": {
+    "background": {
+      "blue.png": 3,
+      "brown.png": 6,
+      "flesh.png": 2,
+      "green.png": 6,
+      "light-blue.png": 5,
+      "light-green.png": 3,
+      "light-pink.png": 1,
+      "light-purple.png": 1,
+      "light-yellow.png": 4,
+      "orange.png": 5,
+      "pink.png": 7,
+      "purple.png": 8,
+      "red.png": 5,
+      "yellow.png": 44
+    },
+    "eyes": {
+      "egg-eyes.png": 30,
+      "heart-eyes.png": 17,
+      "square-eyes.png": 14,
+      "star-eyes.png": 39
+    },
+    "mouth": {
+      "block-mouth.png": 49,
+      "smile-mouth.png": 39,
+      "triangle-mouth.png": 12
+    },
+    "face": {
+      "cyan-face.png": 4,
+      "dark-green-face.png": 8,
+      "flesh-face.png": 8,
+      "gold-face.png": 7,
+      "grapefruit-face.png": 9,
+      "green-face.png": 1,
+      "pink-face.png": 8,
+      "purple-face.png": 8,
+      "sun-face.png": 10,
+      "teal-face.png": 37
+    }
+  },
+  "order": [
+    "background",
+    "eyes",
+    "face",
+    "mouth"
+  ],
+  "width": 1000,
+  "height": 1000
+}
