@@ -1,3 +1,4 @@
 [submodule "simple-NFT-generator"]
 	path = simple-NFT-generator
 	url = https://github.com/f-sky/simple-NFT-generator.git
+	branch = main
