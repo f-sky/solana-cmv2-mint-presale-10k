@@ -1,0 +1,2 @@
+{"v":0,"name":"sugar","msg":"Lend me some sugar, I am your neighbor.","level":30,"hostname":"falcon-Battle-Axe-C-B360M-HD","pid":11313,"time":"2022-11-09T04:03:25.586445952Z","target":"sugar","line":116,"file":"src/main.rs"}
+{"v":0,"name":"sugar","msg":"Validation complete, your metadata file(s) look good.","level":30,"hostname":"falcon-Battle-Axe-C-B360M-HD","pid":11313,"time":"2022-11-09T04:03:25.605168933Z","target":"sugar_cli::validate::process","line":154,"file":"src/validate/process.rs"}

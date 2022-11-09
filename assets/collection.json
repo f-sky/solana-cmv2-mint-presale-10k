@@ -1,0 +1,16 @@
+{
+  "name": "Test Collection",
+  "symbol": "FSKY",
+  "image": "collection.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "description": "This is a Test Collection",
+  "attributes": []
+}
