@@ -1,11 +1,26 @@
 {
-  "name": "",
-  "symbol": "",
-  "description": "",
-  "creators": [],
-  "dnp": {},
-  "premadeCustoms": [],
-  "collection": {},
+  "name": "NFT #",
+  "symbol": "FSKY",
+  "description": "This is a Test Collection",
+  "dnp": {
+    "background": {
+      "blue.png": {
+        "eyes": [
+          "egg-eyes.png",
+          "heart-eyes.png"
+        ],
+        "face": [
+          "cyan-face.png"
+        ]
+      }
+    }
+  },
+  "premadeCustoms": [{
+    "background": "yellow.png",
+    "face": "cyan-face.png",
+    "eyes": "egg-eyes.png",
+    "mouth": "block-mouth.png"
+  }],
   "breakdown": {
     "background": {
       "blue.png": 3,
@@ -49,8 +64,8 @@
   },
   "order": [
     "background",
-    "eyes",
     "face",
+    "eyes",    
     "mouth"
   ],
   "width": 1000,
