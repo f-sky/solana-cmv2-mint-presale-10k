@@ -2,3 +2,6 @@
 	path = simple-NFT-generator
 	url = https://github.com/f-sky/simple-NFT-generator.git
 	branch = main
+[submodule "solana-cmv2-mint-presale-10k-ui"]
+	path = solana-cmv2-mint-presale-10k-ui
+	url = git@github.com:f-sky/solana-cmv2-mint-presale-10k-ui.git
